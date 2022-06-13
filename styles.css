@@ -2,6 +2,10 @@ body{
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #container{
